@@ -1,4 +1,4 @@
-public class ArreglosLoopEnchanced {
+public class ArreglosLoopEnhanced {
 
     public static void main(String[] args) {
         String[] nombres = {"Alejandro","Maria","Luis","Juan","Luisa"};
