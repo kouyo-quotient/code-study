@@ -1,4 +1,4 @@
-**- Se escribe:**  
+- Se escribe:
 ```java
 switch(dato){
     case (variable): Instrucciones1;
