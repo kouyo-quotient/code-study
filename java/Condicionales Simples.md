@@ -1,4 +1,4 @@
-**- Se escribe:**
+- Se escribe:
 ```java
 	if(condicion){
 	  instruccion1
